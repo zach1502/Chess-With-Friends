@@ -23,7 +23,10 @@ Download the files from this repo and toss it into a folder.
 Open config.json and put int your bot token and all that. The data there doesn't work. They're there to make sure you got the right input.
 
 ### Step 4.
-Double click on `start.bat`, and it should be installing dependencies and then it will start running. 
+Double click on `install_dependencies.bat`, and it will start installing dependencies. 
 
 ### Step 5.
+Double click on `start.bat`, and it will start running. 
+
+### Step 6.
 Have Fun!
